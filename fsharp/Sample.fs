@@ -1,8 +1,8 @@
 module Tests
 
 open Expecto
-
-[<Tests>]
+(*
+//[<Tests>]
 let tests =
   testList "samples" [
     testCase "universe exists (╭ರᴥ•́)" <| fun _ ->
@@ -34,3 +34,4 @@ let tests =
       "╰〳 ಠ 益 ಠೃ 〵╯" |> Expect.equal true false
     }
   ]
+*)
