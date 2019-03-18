@@ -2,11 +2,14 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <GenerateProgramFile>false</GenerateProgramFile>
+  </PropertyGroup>
+  <PropertyGroup>
+      <GenerateProgramFile>false</GenerateProgramFile>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Sample.fs" />
     <Compile Include="RepeatedStrings.fs" />
+    <Compile Include="CountingValleys.fs" />
     <Compile Include="Main.fs" />
   </ItemGroup>
   <ItemGroup>
