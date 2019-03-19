@@ -10,6 +10,7 @@
     <Compile Include="Sample.fs" />
     <Compile Include="RepeatedStrings.fs" />
     <Compile Include="CountingValleys.fs" />
+    <Compile Include="DSArray.fs" />
     <Compile Include="Main.fs" />
   </ItemGroup>
   <ItemGroup>

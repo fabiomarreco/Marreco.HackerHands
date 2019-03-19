@@ -5,7 +5,7 @@ using Xunit;
 namespace HackerHands.CSharp
 {
 
-    public class UnitTest1
+    public class CountingValleysTest
     {
         public static int CountValleys (string str)
         {
